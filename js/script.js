@@ -7,7 +7,7 @@ new Vue({
     data: () => ({
         // La ruta de las imágenes. Puede ser relativa o absoluta
         imagenes: [
-            "./img/Uno.jpg",
+            "./img/cabra.jpg",
             "./img/Dos.jpg",
             "./img/Tres.jpg",
             "./img/Cuatro.jpg",
